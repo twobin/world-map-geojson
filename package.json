@@ -1,6 +1,6 @@
 {
   "name": "world-map-geojson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "世界地图 geoJSON 数据",
   "main": "src/index.js",
   "scripts": {
@@ -33,6 +33,7 @@
   },
   "files": [
     "src",
+    "lib",
     "*.md"
   ],
   "license": "ISC"

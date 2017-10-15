@@ -1,5 +1,3 @@
-import WorldData from './world';
+const WorldData = require('./world');
 
-export {
-  WorldData
-};
+module.exports = WorldData;

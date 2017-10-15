@@ -1,10 +1,9 @@
 {
   "name": "world-map-geojson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "世界地图 geoJSON 数据",
   "main": "lib/index.js",
   "scripts": {
-    "prepublish": "npm run build",
     "build": "NODE_ENV=production babel src --out-dir lib",
     "test": "mocha --check-leaks --compilers js:babel-core/register"
   },

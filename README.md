@@ -18,3 +18,9 @@ $ npm i -S world-map-geojson
 ```
 import WorldData from 'world-map-geojson';
 ```
+
+you can also use umd.
+
+```
+https://unpkg.com/china-map-geojson@1.0.1/umd/world-map-geojson.min.js
+```

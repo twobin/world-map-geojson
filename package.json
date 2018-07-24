@@ -1,6 +1,6 @@
 {
   "name": "world-map-geojson",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "世界地图 geoJSON 数据",
   "main": "lib/index.js",
   "scripts": {
